@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MyBatis-05-Properties:war">
+    <output-path>$PROJECT_DIR$/02-MyBatis-05-Properties/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>MyBatis-05-Properties</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="MyBatis-05-Properties-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="MyBatis-05-Properties:war exploded" />
+    </root>
+  </artifact>
+</component>

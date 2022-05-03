@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MyBatis-16-Druid:war">
+    <output-path>$PROJECT_DIR$/02-MyBatis-16-Druid/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>MyBatis-16-Druid</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="MyBatis-16-Druid-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="MyBatis-16-Druid:war exploded" />
+    </root>
+  </artifact>
+</component>

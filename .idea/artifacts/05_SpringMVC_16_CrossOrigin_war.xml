@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="05-SpringMVC-16-CrossOrigin:war">
+    <output-path>$PROJECT_DIR$/05-SpringMVC-16-CrossOrigin/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>05-SpringMVC-16-CrossOrigin</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="05-SpringMVC-16-CrossOrigin-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="05-SpringMVC-16-CrossOrigin:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="04-DesignPattern-01-Proxy" />
+        <module name="03-Spring-09-Aop-00-Start" />
+        <module name="Spring-01-Start" />
+        <module name="MyBatis-02-More-Mapper" />
+        <module name="05-SpringMVC-01-Start" />
+        <module name="05-SpringMVC-07-ResponseDate" />
+        <module name="03-Spring-08-JDBC-02-Annotation" />
+        <module name="03-Spring-09-Aop-02-Annotation" />
+        <module name="08-SpringBoot-06-StaticResources" />
+        <module name="03-Spring-07-DI-04-ThirdLayerApplication" />
+        <module name="08-SpringBoot-00-Starter" />
+        <module name="MyBatis-16-Druid" />
+        <module name="03-Spring-04-Scope" />
+        <module name="03-Spring-07-DI-03-ComplexType" />
+        <module name="03-Spring-09-Aop-01-XML" />
+        <module name="MyBatis-19-Generator" />
+        <module name="Spring-02-Bean-Name" />
+        <module name="03-Spring-03-CreateBean" />
+        <module name="05-SpringMVC-14-Interceptor" />
+        <module name="05-SpringMVC-17-test" />
+        <module name="08-SpringBoot-10-RESTful" />
+        <module name="_05-SpringMVC-03-RequestParamBind" />
+        <module name="MyBatis-08-Binding" />
+        <module name="08-SpringBoot-08-JdbcTemplate" />
+        <module name="03-Spring-08-JDBC" />
+        <module name="03-Spring-07-DI-05-Annotation" />
+        <module name="MyBatis-04-Placeholder" />
+        <module name="MyBatis-13-Dynamic-SQL" />
+        <module name="08-SpringBoot-01-Starter" />
+        <module name="MyBatis-06-Alias" />
+        <module name="03-Spring-11-Test" />
+        <module name="08-SpringBoot-07-JSP" />
+        <module name="08-SpringBoot-17-Junit4" />
+        <module name="MyBatis-12-More-Table" />
+        <module name="05-SpringMVC-02-RequestMapping" />
+        <module name="MyBatis-17-Annotation" />
+        <module name="05-SpringMVC-16-CrossOrigin" />
+        <module name="MyBatis-00-JDBC" />
+        <module name="Spring-00-ThreeLayerApplication" />
+        <module name="08-SpringBoot-14-FileUpload" />
+        <module name="_02-MyBatis-14-Cache" />
+        <module name="08-SpringBoot-19-Mail" />
+        <module name="03-Spring-07-DI" />
+        <module name="MyBatis-15-PageHelper" />
+        <module name="03-Spring-07-DI-02-Set" />
+        <module name="03-Spring-05-Lifecycle" />
+        <module name="05-SpringMVC-06-ViewResolver" />
+        <module name="05-SpringMVC-08-Annotation" />
+        <module name="05-SpringMVC-09-Ajax" />
+        <module name="MyBatis-07-Log4j2" />
+        <module name="MyBatis-10-Util" />
+        <module name="lock-01" />
+        <module name="06-SSM-01-cloud_diary" />
+        <module name="MyBatis-09-CRUD" />
+        <module name="08-SpringBoot-12-Filter" />
+        <module name="05-SpringMVC-03-RequestParamBind" />
+        <module name="06-SSM-01-Wyy" />
+        <module name="08-SpringBoot-09-MyBatis" />
+        <module name="06-SSM-01-FuPin" />
+        <module name="MyBatis-05-Properties" />
+        <module name="03-Spring-10-Transaction-01-Programming" />
+        <module name="05-SpringMVC-11-FileDownload" />
+        <module name="MyBatis-03-Character" />
+        <module name="03-Spring-06-Lazy" />
+        <module name="MyBatis-11-ORM" />
+        <module name="05-SpringMVC-15-Jersey" />
+        <module name="03-Spring-10-Transaction-03-Annotation" />
+        <module name="03-Spring-10-Transaction-04-Propagate" />
+        <module name="MyBatis-01-Start" />
+        <module name="ThirdLayerApplication" />
+        <module name="08-SpringBoot-03-Profile" />
+        <module name="05-SpringMVC-13-ControllerAdvice" />
+        <module name="05-SpringMVC-12-Exception" />
+        <module name="08-SpringBoot-11-Exception" />
+        <module name="07-JWT-00-Session-Cookie" />
+        <module name="05-SpringMVC-04-Encoding" />
+        <module name="08-SpringBoot-04-Annotation" />
+        <module name="08-SpringBoot-16-i18n" />
+        <module name="08-SpringBoot-21-Jasypt" />
+        <module name="MyBatis-18-Lazy" />
+        <module name="08-SpringBoot-13-Interceptor" />
+        <module name="08-SpringBoot-18-Junit5" />
+        <module name="08-SpringBoot-20-Devtools" />
+        <module name="05-SpringMVC-10-FileUpload" />
+        <module name="08-SpringBoot-05-Conditional" />
+        <module name="03-Spring-10-Transaction-02-XML" />
+        <module name="05-SpringMVC-05-DateConverter" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="03-Spring-03-CreateBean" target="1.8" />
+      <module name="03-Spring-04-Scope" target="1.8" />
+      <module name="03-Spring-05-Lifecycle" target="1.8" />
+      <module name="03-Spring-06-Lazy" target="1.8" />
+      <module name="03-Spring-07-DI" target="1.8" />
+      <module name="03-Spring-07-DI-02-Set" target="1.8" />
+      <module name="03-Spring-07-DI-03-ComplexType" target="1.8" />
+      <module name="03-Spring-07-DI-04-ThirdLayerApplication" target="1.8" />
+      <module name="03-Spring-07-DI-05-Annotation" target="1.8" />
+      <module name="03-Spring-08-JDBC" target="1.8" />
+      <module name="03-Spring-08-JDBC-02-Annotation" target="1.8" />
+      <module name="03-Spring-09-Aop-00-Start" target="1.8" />
+      <module name="03-Spring-09-Aop-01-XML" target="1.8" />
+      <module name="03-Spring-09-Aop-02-Annotation" target="1.8" />
+      <module name="03-Spring-10-Transaction-01-Programming" target="1.8" />
+      <module name="03-Spring-10-Transaction-02-XML" target="1.8" />
+      <module name="03-Spring-10-Transaction-03-Annotation" target="1.8" />
+      <module name="03-Spring-10-Transaction-04-Propagate" target="1.8" />
+      <module name="03-Spring-11-Test" target="1.8" />
+      <module name="03-spring-11111" target="1.8" />
+      <module name="04-DesignPattern-01-Proxy" target="1.8" />
+      <module name="05-SpringMVC-01-Start" target="1.8" />
+      <module name="05-SpringMVC-02-RequestMapping" target="1.8" />
+      <module name="05-SpringMVC-03-RequestParamBind" target="1.8" />
+      <module name="05-SpringMVC-04-Encoding" target="1.8" />
+      <module name="05-SpringMVC-05-DateConverter" target="1.8" />
+      <module name="05-SpringMVC-06-ViewResolver" target="1.8" />
+      <module name="05-SpringMVC-07-ResponseDate" target="1.8" />
+      <module name="05-SpringMVC-08-Annotation" target="1.8" />
+      <module name="05-SpringMVC-09-Ajax" target="1.8" />
+      <module name="05-SpringMVC-10-FileUpload" target="1.8" />
+      <module name="05-SpringMVC-11-FileDownload" target="1.8" />
+      <module name="05-SpringMVC-12-Exception" target="1.8" />
+      <module name="05-SpringMVC-13-ControllerAdvice" target="1.8" />
+      <module name="05-SpringMVC-14-Interceptor" target="1.8" />
+      <module name="05-SpringMVC-15-Jersey" target="1.8" />
+      <module name="05-SpringMVC-16-CrossOrigin" target="1.8" />
+      <module name="05-SpringMVC-17-test" target="1.8" />
+      <module name="06-SSM-01-cloud_diary" target="1.8" />
+      <module name="06-SSM-01-FuPin" target="1.8" />
+      <module name="06-SSM-01-wyy" target="1.8" />
+      <module name="06-SSM-01-Wyy" target="1.8" />
+      <module name="06-SSM-01-Wyy01" target="1.8" />
+      <module name="07-JWT-00-Session-Cookie" target="1.8" />
+      <module name="08-SpringBoot-00-Starter" target="1.8" />
+      <module name="08-SpringBoot-01-Starter" target="1.8" />
+      <module name="08-SpringBoot-02-Config-File" target="1.8" />
+      <module name="08-SpringBoot-03-Profile" target="1.8" />
+      <module name="08-SpringBoot-04-Annotation" target="1.8" />
+      <module name="08-SpringBoot-05-Conditional" target="1.8" />
+      <module name="08-SpringBoot-06-StaticResources" target="1.8" />
+      <module name="08-SpringBoot-07-JSP" target="1.8" />
+      <module name="08-SpringBoot-08-JdbcTemplate" target="1.8" />
+      <module name="08-SpringBoot-09-MyBatis" target="1.8" />
+      <module name="08-SpringBoot-10-RESTful" target="1.8" />
+      <module name="08-SpringBoot-11-Exception" target="1.8" />
+      <module name="08-SpringBoot-12-Filter" target="1.8" />
+      <module name="08-SpringBoot-13-Interceptor" target="1.8" />
+      <module name="08-SpringBoot-14-FileUpload" target="1.8" />
+      <module name="08-SpringBoot-16-i18n" target="1.8" />
+      <module name="08-SpringBoot-17-Junit4" target="1.8" />
+      <module name="08-SpringBoot-18-Junit5" target="1.8" />
+      <module name="08-SpringBoot-19-Mail" target="1.8" />
+      <module name="08-SpringBoot-20-Devtools" target="1.8" />
+      <module name="08-SpringBoot-21-Jasypt" target="1.8" />
+      <module name="_02-MyBatis-14-Cache" target="1.8" />
+      <module name="_05-SpringMVC-03-RequestParamBind" target="1.8" />
+      <module name="_06-SSM-01-FuPin" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="demo01" target="1.8" />
+      <module name="demo02" target="1.8" />
+      <module name="lock-01" target="1.8" />
+      <module name="MyBatis-00-JDBC" target="1.8" />
+      <module name="MyBatis-01-Start" target="1.8" />
+      <module name="MyBatis-02-More-Mapper" target="1.8" />
+      <module name="MyBatis-03-Character" target="1.8" />
+      <module name="MyBatis-04-Placeholder" target="1.8" />
+      <module name="MyBatis-05-Properties" target="1.8" />
+      <module name="MyBatis-06-Alias" target="1.8" />
+      <module name="MyBatis-07-Log4j2" target="1.8" />
+      <module name="MyBatis-08-Binding" target="1.8" />
+      <module name="MyBatis-09-CRUD" target="1.8" />
+      <module name="MyBatis-10-Util" target="1.8" />
+      <module name="MyBatis-11-ORM" target="1.8" />
+      <module name="MyBatis-12-More-Table" target="1.8" />
+      <module name="MyBatis-13-Dynamic-SQL" target="1.8" />
+      <module name="MyBatis-15-PageHelper" target="1.8" />
+      <module name="MyBatis-16-Druid" target="1.8" />
+      <module name="MyBatis-17-Annotation" target="1.8" />
+      <module name="MyBatis-18-Lazy" target="1.8" />
+      <module name="MyBatis-19-Generator" target="1.8" />
+      <module name="Spring-00-ThreeLayerApplication" target="1.8" />
+      <module name="Spring-01-Start" target="1.8" />
+      <module name="Spring-02-Bean-Name" target="1.8" />
+      <module name="ThirdLayerApplication" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="08-SpringBoot-00-Starter" options="-parameters" />
+      <module name="08-SpringBoot-01-Starter" options="-parameters" />
+      <module name="08-SpringBoot-02-Config-File" options="-parameters" />
+      <module name="08-SpringBoot-03-Profile" options="-parameters" />
+      <module name="08-SpringBoot-04-Annotation" options="-parameters" />
+      <module name="08-SpringBoot-05-Conditional" options="-parameters" />
+      <module name="08-SpringBoot-06-StaticResources" options="-parameters" />
+      <module name="08-SpringBoot-07-JSP" options="-parameters" />
+      <module name="08-SpringBoot-08-JdbcTemplate" options="-parameters" />
+      <module name="08-SpringBoot-09-MyBatis" options="-parameters" />
+      <module name="08-SpringBoot-10-RESTful" options="-parameters" />
+      <module name="08-SpringBoot-11-Exception" options="-parameters" />
+      <module name="08-SpringBoot-12-Filter" options="-parameters" />
+      <module name="08-SpringBoot-13-Interceptor" options="-parameters" />
+      <module name="08-SpringBoot-14-FileUpload" options="-parameters" />
+      <module name="08-SpringBoot-16-i18n" options="-parameters" />
+      <module name="08-SpringBoot-17-Junit4" options="-parameters" />
+      <module name="08-SpringBoot-18-Junit5" options="-parameters" />
+      <module name="08-SpringBoot-19-Mail" options="-parameters" />
+      <module name="08-SpringBoot-20-Devtools" options="-parameters" />
+      <module name="08-SpringBoot-21-Jasypt" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="demo01" options="-parameters" />
+      <module name="demo02" options="-parameters" />
+    </option>
+  </component>
+</project>

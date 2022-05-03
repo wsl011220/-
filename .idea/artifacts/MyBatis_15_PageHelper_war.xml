@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MyBatis-15-PageHelper:war">
+    <output-path>$PROJECT_DIR$/02-MyBatis-15-PageHelper/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>MyBatis-15-PageHelper</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="MyBatis-15-PageHelper-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="MyBatis-15-PageHelper:war exploded" />
+    </root>
+  </artifact>
+</component>

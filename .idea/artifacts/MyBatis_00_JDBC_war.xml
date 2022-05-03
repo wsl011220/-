@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MyBatis-00-JDBC:war">
+    <output-path>$PROJECT_DIR$/02-MyBatis-00-JDBC/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>MyBatis-00-JDBC</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="MyBatis-00-JDBC-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="MyBatis-00-JDBC:war exploded" />
+    </root>
+  </artifact>
+</component>

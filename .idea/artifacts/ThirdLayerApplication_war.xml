@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ThirdLayerApplication:war">
+    <output-path>$PROJECT_DIR$/01_ThirdLayerApplication/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ThirdLayerApplication</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ThirdLayerApplication-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ThirdLayerApplication:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MyBatis-13-Dynamic-SQL:war">
+    <output-path>$PROJECT_DIR$/02-MyBatis-13-Dynamic-SQL/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>MyBatis-13-Dynamic-SQL</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="MyBatis-13-Dynamic-SQL-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="MyBatis-13-Dynamic-SQL:war exploded" />
+    </root>
+  </artifact>
+</component>

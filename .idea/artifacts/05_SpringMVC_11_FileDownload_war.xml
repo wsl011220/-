@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="05-SpringMVC-11-FileDownload:war">
+    <output-path>$PROJECT_DIR$/05-SpringMVC-11-FileDownload/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>05-SpringMVC-11-FileDownload</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="_05-SpringMVC-11-FileDownload-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="05-SpringMVC-11-FileDownload:war exploded" />
+    </root>
+  </artifact>
+</component>

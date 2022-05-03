@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MyBatis-05-Properties:war exploded">
+    <output-path>$PROJECT_DIR$/02-MyBatis-05-Properties/target/MyBatis-05-Properties-1.0-SNAPSHOT</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>MyBatis-05-Properties</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MyBatis-05-Properties" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/02-MyBatis-05-Properties/target/MyBatis-05-Properties-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="MyBatis-05-Properties/web/Web" />
+    </root>
+  </artifact>
+</component>

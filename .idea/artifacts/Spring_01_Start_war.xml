@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Spring-01-Start:war">
+    <output-path>$PROJECT_DIR$/03-Spring-01-Start/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Spring-01-Start</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="MyBatis-07-Log4j2-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Spring-01-Start:war exploded" />
+    </root>
+  </artifact>
+</component>

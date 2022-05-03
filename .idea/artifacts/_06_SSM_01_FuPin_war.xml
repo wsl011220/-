@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="_06-SSM-01-FuPin:war">
+    <output-path>$PROJECT_DIR$/06-SSM-01-FuPin/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>_06-SSM-01-FuPin</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="_06-SSM-01-FuPin-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="_06-SSM-01-FuPin:war exploded" />
+    </root>
+  </artifact>
+</component>
